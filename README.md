@@ -12,3 +12,5 @@ I'm [CordlessCoder](https://github.com/CordlessCoder). I'm a garbage Python "dev
 - 📫 How to reach me: Verq#2338 on Discord
 - 😄 Pronouns: he/him, but they is fine
 - ⚡ Fun fact: I use NeoVim
+
+[![wakatime](https://wakatime.com/badge/user/142fa03b-8422-4171-9266-2b6d37f60c35.svg)](https://wakatime.com/@142fa03b-8422-4171-9266-2b6d37f60c35)
