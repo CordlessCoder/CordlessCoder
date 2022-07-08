@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**CordlessCoder/CordlessCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/577885109894512659)](https://discord.com/users/577885109894512659)
 
 Here are some ideas to get you started:
 
