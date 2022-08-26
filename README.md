@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm [CordlessCoder](https://github.com/CordlessCoder). I'm a garbage Python "developer", a dissapointment to my parents and soon to be a Ukrainian refugee in Ireland.
+I'm [CordlessCoder](https://github.com/CordlessCoder). I'm a garbage Python "developer", a dissapointment to my parents and a Ukrainian refugee in Ireland.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/577885109894512659)](https://discord.com/users/577885109894512659)
 
