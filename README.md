@@ -4,7 +4,7 @@ I'm [CordlessCoder](https://github.com/CordlessCoder). I'm a garbage Rust "devel
 [![Discord Presence](https://lanyard.cnrad.dev/api/577885109894512659)](https://discord.com/users/577885109894512659)
 
 
-- 🔭 I’m currently working on [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+- 🔭 I’m currently working on [OxiiLink](https://roman.vm.net.ua), and rewriting the word in Rust :>
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
 - 👯 I’m looking to collaborate on [NOT touching grass](https://roman.vm.net.ua)
 - 🤔 I’m looking for help with where my life is going
