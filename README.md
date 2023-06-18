@@ -10,6 +10,6 @@ I'm [CordlessCoder](https://github.com/CordlessCoder). I'm a garbage Rust "devel
 - 👯 I’m looking to collaborate on [NOT touching grass](https://roman.vm.net.ua)
 - 🤔 I’m looking for help with where my life is going
 - 💬 Don't ask me about anything, I am very afraid of human interaction
-- 📫 How to reach me: Verq#2338 on Discord
+- 📫 How to reach me: @cordlesscoder on Discord
 - 😄 Pronouns: he/him, but they/them is fine
 - ⚡ Fun fact: I use NeoVim and thus am definitely superior /s
