@@ -1,7 +1,7 @@
 ### Hello!
 I'm a fairly typical CS student who's a bit into Rust.
 
-Probably learning Java or C++ right now, although I wish I wasn't.
+Probably learning C++ right now, although I wish I wasn't.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/577885109894512659)](https://discord.com/users/577885109894512659)
 
